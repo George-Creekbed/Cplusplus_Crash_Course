@@ -1,1 +1,0 @@
-The problem with introspection is that it has no end.

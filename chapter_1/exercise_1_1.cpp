@@ -2,7 +2,10 @@
 
 int absolute_value(int x) {
   // Your code here
-  return 0;
+  if (x < 0)
+    x = -x;
+
+  return x;
 }
 
 int main() {

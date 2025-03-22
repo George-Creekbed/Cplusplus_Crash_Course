@@ -17,3 +17,6 @@ add_executable(listing_4_28 listing_4_28.cpp)
 add_executable(listing_4_33 listing_4_33.cpp)
 add_executable(listing_4_34 listing_4_34.cpp)
 add_executable(listing_4_37 listing_4_37.cpp)
+add_executable(exercise_4_1-6 exercise_4_1-6.cpp)
+add_executable(exercise_4_7 exercise_4_7.cpp)
+

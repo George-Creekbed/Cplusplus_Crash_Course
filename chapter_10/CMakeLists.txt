@@ -34,3 +34,4 @@ googletest_add_test(gtest_min gtest/minimal.cpp)
 
 catch_add_test(catch catch/tests.cpp)
 catch_add_test(catch_min catch/minimal.cpp)
+catch_add_test(exercises_chap_10 exercises_chap_10.cpp)
