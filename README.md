@@ -1,3 +1,4 @@
-Complete solutions to all exercises in the book C++ Crash Course (ed. No Starch Press, 1st edition, 2019) by J. Lospinoso.
+**Complete solutions to all exercises in the book C++ Crash Course (ed. No Starch Press, 1st edition, 2019) by J. Lospinoso.**
+---
 
-The only complete repository of solutions to this book I could find on Github as of right now (2025).
+I could find no complete repository of solutions for this book exercises on Github as of right now (2025), so here it is, at least until the author finally decides to upload his own official solutions.
